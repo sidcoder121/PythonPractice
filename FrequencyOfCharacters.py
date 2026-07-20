@@ -3,7 +3,6 @@ freq={};
 for char in st:
     if char in freq:
         freq[char]+=1
-    else:
-        
+    else:      
         freq[char] = 1
 print(freq)
