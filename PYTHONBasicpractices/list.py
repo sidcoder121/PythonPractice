@@ -22,4 +22,5 @@ print(list2)
 
 list2.append(4)
 list2.append(5)
+list2.append(6)
 print('list after append: ', list2)
