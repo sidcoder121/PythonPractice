@@ -23,4 +23,12 @@ print(list2)
 list2.append(4)
 list2.append(5)
 list2.append(6)
+
 print('list after append: ', list2)
+
+# list.insert(position,value)
+list2.insert(3,12)
+print(list2)
+
+#list.extend()-  used to push multiple item in a list
+list2.extend([11,'siddharth',"saxena"])
