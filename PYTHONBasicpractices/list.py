@@ -1,4 +1,4 @@
-# create a list 
+#create a list 
 data = ["Apple","Orange","Grapes"]
 print(data)
 
