@@ -32,3 +32,11 @@ print(list2)
 
 #list.extend()-  used to push multiple item in a list
 list2.extend([11,'siddharth',"saxena"])
+
+#Remove elements in the list
+list2.remove(5)
+print(list2)
+
+#pop(index) - pop() remove item at last index or pop(index) at given index
+list2.pop()
+print(list2)
