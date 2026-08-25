@@ -6,3 +6,5 @@ print(list)
 sliced_list = list[3:8]
 print(sliced_list)
 
+new_sliced_list = list[1:5]
+print(new_sliced_list)
