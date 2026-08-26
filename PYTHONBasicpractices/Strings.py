@@ -12,3 +12,7 @@ String2 = "Good things take time"
 print("length: ",len(String))
 print(String2[0])
 print(String2[3])
+
+#String SLicing
+String3 = "This is the sliced String"
+print(String3[2:7])
