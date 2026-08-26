@@ -16,3 +16,11 @@ print(String2[3])
 #String SLicing
 String3 = "This is the sliced String"
 print(String3[2:7])
+
+#string Lowercase
+String4 = "ALL UPPERCASE"
+print(String4.lower())
+
+#string upppercase
+String5 = "all lowercase"
+print(String5.upper())
