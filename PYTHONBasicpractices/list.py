@@ -26,6 +26,9 @@ list2.append(6)
 
 print('list after append: ', list2)
 
+list2.reverse()
+print('reverse list: ',list2)
+
 # list.insert(position,value)
 list2.insert(3,12)
 print(list2)
@@ -40,3 +43,4 @@ print(list2)
 #pop(index) - pop() remove item at last index or pop(index) at given index
 list2.pop()
 print(list2)
+
