@@ -26,3 +26,9 @@ print("Reversed Tuple \n", Tuple1[: :-1])
 #printing elements in range
 print("Elements in range\n")
 print(Tuple4[4:9])
+
+Tuple5 = (1,2,3,4,5,4,3,2,1)
+Tuple6 = ("cat","dog","tiger")
+
+print(Tuple5.count(1))
+print(Tuple6.index("dog"))
