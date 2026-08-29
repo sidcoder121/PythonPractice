@@ -21,3 +21,8 @@ def myfunc(x,y=10):
     print("y : ",y)
 
 myfunc(20)
+
+def subtract(num1:int,num2:int):
+    print(num1-num2)
+
+subtract(10,8)
