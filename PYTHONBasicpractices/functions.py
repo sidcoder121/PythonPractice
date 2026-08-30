@@ -26,3 +26,8 @@ def subtract(num1:int,num2:int):
     print(num1-num2)
 
 subtract(10,8)
+
+def mult(num1:int,num2:int):
+    print(num1*num2)
+
+mult(7,5)
