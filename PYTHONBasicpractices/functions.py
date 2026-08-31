@@ -31,3 +31,10 @@ def mult(num1:int,num2:int):
     print(num1*num2)
 
 mult(7,5)
+
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n*factorial(n-1)
+print(factorial(4))
