@@ -37,4 +37,9 @@ def factorial(n):
         return 1
     else:
         return n*factorial(n-1)
-print(factorial(4))
+print(factorial(4)) 
+
+def greet(greeting):
+    print(greeting)
+
+greet("Hello, welcome to the function tutorial!")
