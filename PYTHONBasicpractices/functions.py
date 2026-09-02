@@ -43,3 +43,12 @@ def greet(greeting):
     print(greeting)
 
 greet("Hello, welcome to the function tutorial!")
+
+def divide(num1:int,num2:int):
+    if num2 == 0:
+        return "Error: Division by zero is not allowed."
+    else:
+        return num1 / num2
+
+print(divide(10, 2))
+print(divide(10, 0))
