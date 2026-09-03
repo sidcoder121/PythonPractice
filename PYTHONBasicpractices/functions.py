@@ -52,3 +52,7 @@ def divide(num1:int,num2:int):
 
 print(divide(10, 2))
 print(divide(10, 0))
+
+def PrintFun():
+    print("I am function")
+PrintFun()
