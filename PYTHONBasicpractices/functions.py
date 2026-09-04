@@ -56,3 +56,8 @@ print(divide(10, 0))
 def PrintFun():
     print("I am function")
 PrintFun()
+
+def dance(name):
+    print(f"{name} is dancing")
+
+dance("Chandhan")
