@@ -62,5 +62,5 @@ def dance(name):
 
 dance("Chandhan")
 
-def juststreak():
-    print("just maintain my git streak")
+def streak():
+    print('streak')
