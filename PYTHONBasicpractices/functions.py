@@ -64,3 +64,6 @@ dance("Chandhan")
 
 def streak():
     print('streak')
+    
+def practice():
+    print('practice')
