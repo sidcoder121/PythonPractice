@@ -67,3 +67,7 @@ def streak():
     
 def practice():
     print('practice')
+
+def main():
+    streak()
+    practice()
