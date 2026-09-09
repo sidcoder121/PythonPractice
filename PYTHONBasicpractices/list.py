@@ -49,3 +49,6 @@ print(list2)
 lis = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 lis.sort(key=lambda x:x[-1])
 print(lis)
+
+def listt():
+    print('list')
