@@ -52,3 +52,11 @@ print(lis)
 
 def listt():
     print('list')
+
+li1 = [2, 5, 9, 54, 45, 74, 8 ]
+li2 = [4, 9, 45, 74, 8]
+li3 = []
+for i in li1:
+    if i in li2:
+        li3.append(i)
+print(li3)
