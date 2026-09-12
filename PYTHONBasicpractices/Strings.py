@@ -26,3 +26,5 @@ String5 = "all lowercase"
 print(String5.upper())
 
 print("Practice string completed")
+
+print("need to do something")
