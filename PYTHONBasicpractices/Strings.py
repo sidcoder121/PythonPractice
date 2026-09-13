@@ -28,3 +28,9 @@ print(String5.upper())
 print("Practice string completed")
 
 print("need to do something")
+
+st = input("Enter the String: ")
+for char in st:
+    if char == st[0]:
+        st = st.replace(char,"$")
+print(st)
