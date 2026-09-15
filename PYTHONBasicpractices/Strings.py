@@ -34,3 +34,4 @@ for char in st:
     if char == st[0]:
         st = st.replace(char,"$")
 print(st)
+print("Practice string completed")
